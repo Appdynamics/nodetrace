@@ -1,0 +1,25 @@
+{   
+  "name" : "nodetrace", 
+  "version" : "0.1.0",
+  "description" : "API-level DTrace Provider",
+  "author": "Dmitri Melikyan <dmitri@rapidlogix.com>", 
+  "homepage": "http://nodetrace.org", 
+  "keywords": ["profiling", "instrumentation", "response time", "real-time", "performance", "bottlenecks"],
+  "contributors": [
+  ],
+  "main": "./index.js",
+  "directories": { 
+    "lib" : "./lib/nodetrace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmelikyan/nodetrace.git"
+  }, 
+  "dependencies": {
+    "nodetime": "*"
+  },
+  "licenses": [{ 
+    "type": "MIT",
+    "url": "http://github.com/dmelikyan/nodetrace/raw/master/LICENSE"
+  }]
+}
