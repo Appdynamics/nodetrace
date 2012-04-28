@@ -1,7 +1,7 @@
 Nodetrace - API-level DTrace Provider for Node.js
 ===========================================
 
-Nodetrace is Nodetime in headleass mode with enabled DTrace support. API documentation is at https://github.com/dmelikyan/nodetime. Call `require('nodetrace')` instead of `require('nodetime')`.
+Nodetrace is Nodetime in headless mode with enabled DTrace support. API documentation is at https://github.com/dmelikyan/nodetime. Call `require('nodetrace')` instead of `require('nodetime')`.
 
 
 ## License
